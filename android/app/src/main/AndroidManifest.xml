@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.k1rnt.doinacamera.doinacamera">
+    package="me.k1rnt.doinacamera">
    <application
         android:label="doinacamera"
         android:icon="@mipmap/ic_launcher">
